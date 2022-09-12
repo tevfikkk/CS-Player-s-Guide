@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Vin Fletcher's Arrows/1.0.0": {
+        "runtime": {
+          "Vin Fletcher's Arrows.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vin Fletcher's Arrows/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\Vin Fletcher's Arrows\Vin Fletcher's Arrows\bin\Debug\net6.0\Vin Fletcher's Arrows.exe
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\Vin Fletcher's Arrows\Vin Fletcher's Arrows\bin\Debug\net6.0\Vin Fletcher's Arrows.deps.json
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\Vin Fletcher's Arrows\Vin Fletcher's Arrows\bin\Debug\net6.0\Vin Fletcher's Arrows.runtimeconfig.json
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\Vin Fletcher's Arrows\Vin Fletcher's Arrows\bin\Debug\net6.0\Vin Fletcher's Arrows.dll
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\Vin Fletcher's Arrows\Vin Fletcher's Arrows\bin\Debug\net6.0\Vin Fletcher's Arrows.pdb
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\Vin Fletcher's Arrows\Vin Fletcher's Arrows\obj\Debug\net6.0\Vin Fletcher's Arrows.csproj.AssemblyReference.cache
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\Vin Fletcher's Arrows\Vin Fletcher's Arrows\obj\Debug\net6.0\Vin Fletcher's Arrows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\Vin Fletcher's Arrows\Vin Fletcher's Arrows\obj\Debug\net6.0\Vin Fletcher's Arrows.AssemblyInfoInputs.cache
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\Vin Fletcher's Arrows\Vin Fletcher's Arrows\obj\Debug\net6.0\Vin Fletcher's Arrows.AssemblyInfo.cs
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\Vin Fletcher's Arrows\Vin Fletcher's Arrows\obj\Debug\net6.0\Vin Fletcher's Arrows.csproj.CoreCompileInputs.cache
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\Vin Fletcher's Arrows\Vin Fletcher's Arrows\obj\Debug\net6.0\Vin Fletcher's Arrows.dll
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\Vin Fletcher's Arrows\Vin Fletcher's Arrows\obj\Debug\net6.0\refint\Vin Fletcher's Arrows.dll
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\Vin Fletcher's Arrows\Vin Fletcher's Arrows\obj\Debug\net6.0\Vin Fletcher's Arrows.pdb
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\Vin Fletcher's Arrows\Vin Fletcher's Arrows\obj\Debug\net6.0\Vin Fletcher's Arrows.genruntimeconfig.cache
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\Vin Fletcher's Arrows\Vin Fletcher's Arrows\obj\Debug\net6.0\ref\Vin Fletcher's Arrows.dll
