@@ -1,0 +1,15 @@
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\The Locked Door\bin\Debug\net6.0\The Locked Door.exe
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\The Locked Door\bin\Debug\net6.0\The Locked Door.deps.json
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\The Locked Door\bin\Debug\net6.0\The Locked Door.runtimeconfig.json
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\The Locked Door\bin\Debug\net6.0\The Locked Door.dll
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\The Locked Door\bin\Debug\net6.0\The Locked Door.pdb
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\The Locked Door\obj\Debug\net6.0\The Locked Door.csproj.AssemblyReference.cache
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\The Locked Door\obj\Debug\net6.0\The Locked Door.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\The Locked Door\obj\Debug\net6.0\The Locked Door.AssemblyInfoInputs.cache
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\The Locked Door\obj\Debug\net6.0\The Locked Door.AssemblyInfo.cs
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\The Locked Door\obj\Debug\net6.0\The Locked Door.csproj.CoreCompileInputs.cache
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\The Locked Door\obj\Debug\net6.0\The Locked Door.dll
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\The Locked Door\obj\Debug\net6.0\refint\The Locked Door.dll
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\The Locked Door\obj\Debug\net6.0\The Locked Door.pdb
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\The Locked Door\obj\Debug\net6.0\The Locked Door.genruntimeconfig.cache
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\The Locked Door\obj\Debug\net6.0\ref\The Locked Door.dll
