@@ -1,0 +1,15 @@
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.exe
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.deps.json
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.runtimeconfig.json
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.dll
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.pdb
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.csproj.AssemblyReference.cache
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.AssemblyInfo.cs
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.dll
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\RockPaperScissors\obj\Debug\net6.0\refint\RockPaperScissors.dll
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.pdb
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.genruntimeconfig.cache
+C:\Users\tevfi\Desktop\Desktop\Coding\cs-players-guide\OOP Part\RockPaperScissors\obj\Debug\net6.0\ref\RockPaperScissors.dll
